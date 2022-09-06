@@ -1,0 +1,8 @@
+my testing process consists of testing all the buttons and playing a full round of Deul Duo
+
+bugs-
+see all bots does nothing when you click on it
+everytime i win the losess counter increases but the wins counter stays at 0
+
+after looking in the terminal a common error im getting is botsArr is not defined
+possibly check there
