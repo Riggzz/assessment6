@@ -98,6 +98,7 @@ app.get('/api/player', (req, res) => {
 
 app.listen(port, () => {
   console.log(`Listening on port ${port}`)
+  rollbar.log('port running smoothly')
 })
 
 // include and initialize the rollbar library with your access token

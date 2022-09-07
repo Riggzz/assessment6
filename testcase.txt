@@ -1,0 +1,17 @@
+Test case
+
+Description
+
+This test will verify that 5 robots are populated on the page when the user clicks on the "draw" buttons
+
+Steps:
+
+
+1. Go to localHost:3000
+2. Click the "Draw" buttons
+
+Test Postconditions:
+
+1. At least five robot cards should appear on the page.
+
+Assigned to: Ethan

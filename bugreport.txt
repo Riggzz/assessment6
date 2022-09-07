@@ -1,0 +1,32 @@
+Bug Report for Test case
+
+September 7, 2022
+
+Description
+
+The "See all bots" button does not work
+
+steps to reproduce
+
+1. go to localhost:3000
+2. click button "See all bots"
+
+Expected Result:
+
+-Page should be populated with robot cards of all robots in our system.
+-no errors should be logged
+
+Actual Result:
+
+-Clicking button does nothing 
+-Clicking button produces errors in browser console
+-Clicking button produces errors in node process
+
+Environmnet:
+
+-Windows 11
+-Chrome Version 105.0.5195.102
+
+Attachments
+
+none

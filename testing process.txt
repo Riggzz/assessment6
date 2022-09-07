@@ -1,8 +1,44 @@
-my testing process consists of testing all the buttons and playing a full round of Deul Duo
+    Test Plan for Robot App
 
-bugs-
-see all bots does nothing when you click on it
-everytime i win the losess counter increases but the wins counter stays at 0
+    Overview:
 
-after looking in the terminal a common error im getting is botsArr is not defined
-possibly check there
+Test the main functionality of the App
+Links:
+
+localhost:3000
+
+    Test Criteria:
+
+-Ensure a robot battle can happen
+
+-Page shows dueling instructions on load
+
+-Shows wins and losses after one battle with accurate counter
+
+-Ability to see all the bots by clikcing on the "See all bots" buttons
+
+-Can create a du0 (team of robot battling for you)
+
+-Page has our company's blue, futuristic styling
+
+-We can see 5 robots to draw when preparing for a battle
+
+
+    Entry Criteria:
+
+-Project is downloaded on local machine
+
+-nodemon running on backend on port 3000
+
+-Has access to chrome on local machine
+
+-Local machine is desktop, not a phone
+
+
+    Exit Criteria:
+
+-All test cases run and pass
+
+Other Details:
+
+none
